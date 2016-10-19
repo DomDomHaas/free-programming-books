@@ -2155,7 +2155,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 
-### Unix
+### Unity
 
 * [Dependency Injection with Unity](https://www.microsoft.com/en-us/download/details.aspx?id=39944)
 
